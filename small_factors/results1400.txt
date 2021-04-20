@@ -1,0 +1,79 @@
+stage 0
+number of new products 114
+
+stage 1
+number of new products 2358
+
+stage 2
+number of new products 25069
+
+stage 3
+number of new products 173983
+
+stage 4
+number of new products 869257
+
+stage 5
+number of new products 3301443
+
+stage 6
+number of new products 9870989
+
+stage 7
+number of new products 23803358
+
+stage 8
+number of new products 47110209
+
+stage 9
+number of new products 77499515
+
+stage 10
+number of new products 106931848
+
+stage 11
+number of new products 124497245
+
+stage 12
+number of new products 122737844
+
+stage 13
+number of new products 102593339
+
+stage 14
+number of new products 72651702
+
+stage 15
+number of new products 43464588
+
+stage 16
+number of new products 21857279
+
+stage 17
+number of new products 9167777
+
+stage 18
+number of new products 3171250
+
+stage 19
+number of new products 889992
+
+stage 20
+number of new products 197814
+
+stage 21
+number of new products 33557
+
+stage 22
+number of new products 4088
+
+stage 23
+number of new products 319
+
+stage 24
+number of new products 12
+
+stage 25
+number of new products 0
+
+maximum product: 211957707790855841937476366225319246464628934249461650660001825805
